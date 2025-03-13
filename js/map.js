@@ -17,8 +17,9 @@ const person={
     isStudent:true,
     sayhi:function(){
         const hi= ()=>{
-            
+
         };
+    
         hi();
 }};
 person.sayhi();
