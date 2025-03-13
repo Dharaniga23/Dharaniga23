@@ -18,7 +18,9 @@ const person={
     sayhi:function(){
         const hi= ()=>{
             console.log(`hiii ${this.lastname}` );
+            console.log(`hiii ${this.lastname}` );
         };
+    
         hi();
 }};
 person.sayhi();
