@@ -38,3 +38,4 @@ while(running){
            
     }
 }
+console.log("hello");
