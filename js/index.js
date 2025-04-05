@@ -7,7 +7,7 @@ document.getElementById("mysubmit").onclick = function() {
     document.getElementById("myh").textContent = `Hello ${username}!`;
     document.getElementById("myh").style.color = "green";
 }
-let age=window.prompt("Enter your age");
+let age=window.prompt("Enter your Age");
 age=Number(age);
 age+=1;
 console.log(age,typeof(age));
